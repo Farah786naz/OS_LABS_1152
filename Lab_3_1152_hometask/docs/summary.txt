@@ -1,0 +1,3 @@
+I have added this text in summary.txt
+this is my second line
+this is my last line
